@@ -1,0 +1,11 @@
+streamlit
+streamlit-chat
+langchain==0.0.312
+boto3
+botocore
+altair==4.0.0
+beautifulsoup4==4.12.2
+PyPDF2==3.0.1
+unstructured
+python-dotenv
+vecs
